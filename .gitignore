@@ -24,6 +24,8 @@ src/generator/generator
 /.vs
 /.vscode
 
+/src/GMsh.Net/lib/*
+
 # Nuget: do not include produced packages
 /build/nuget/*.nupkg
 /build/nuget/tools/*
